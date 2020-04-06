@@ -6,7 +6,11 @@
  */
 
 var singleNumber = function(nums) {
-    result = 0;
+    /*
+    This is done using XOR operarions
+    We know i^i = 0 and i^0 = i
+    */
+   result = 0;
     for (i=0; i<nums.length; i++) {
         result ^= nums[i];   
     }  
