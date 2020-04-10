@@ -1,2 +1,2 @@
 # leetcode-challenge
-30 Day leetcode challenge - All Questions with solutions 
+30 Day leetcode challenge - All Questions with solutions in JavaScript
